@@ -4,5 +4,5 @@
 
 
 ![r1](/MatematikOyunu/guiresim/2-1.png)
-![r1](/MatematikOyunu/guiresim/2-2.png)
+![r2](/MatematikOyunu/guiresim/2-2.png)
 ![r1](/MatematikOyunu/guiresim/2-3.png)
